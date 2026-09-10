@@ -1,9 +1,9 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        a = []
+        a = {}
 
         for i in range(len(nums)):
             need = target - nums[i]
             if need in a:
-                return [i,a.index(need)]
-            a.append(nums[i])
+                return [i,a[need]]
+            a[nums[i]] = i
