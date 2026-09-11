@@ -1,8 +1,6 @@
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
-        """
-        Do not return anything, modify nums in-place instead.
-        """
+        #approach - 1
 
         # a = []
         # b = []
@@ -15,10 +13,23 @@ class Solution:
         
         # nums[:] = a + b
 
-        ans = []
-        c = nums.count(0)
-        for i in nums:
-            if i != 0:
-                ans.append(i)
-        ans.extend([0]*c)
-        nums[:] = ans
+        #approach - 2
+
+        # ans = []
+        # c = nums.count(0)
+        # for i in nums:
+        #     if i != 0:
+        #         ans.append(i)
+        # ans.extend([0]*c)
+        # nums[:] = ans
+
+        #approach - 3
+
+        l = 0 
+
+        for r in range(len(nums)):
+            if nums[r] != 0:
+                nums[l],nums[r] = nums[r],nums[l]
+                l+=1
+
+            
