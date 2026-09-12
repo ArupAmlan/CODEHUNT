@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ArupAmlan/CODEHUNT/tree/master/0283-move-zeroes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ArupAmlan/CODEHUNT/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ArupAmlan/CODEHUNT/tree/master/3483-unique-3-digit-even-numbers) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArupAmlan/CODEHUNT/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,15 +50,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ArupAmlan/CODEHUNT/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArupAmlan/CODEHUNT/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ArupAmlan/CODEHUNT/tree/master/0283-move-zeroes) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArupAmlan/CODEHUNT/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArupAmlan/CODEHUNT/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ArupAmlan/CODEHUNT/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArupAmlan/CODEHUNT/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ArupAmlan/CODEHUNT/tree/master/0011-container-with-most-water) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArupAmlan/CODEHUNT/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Recursion
 |  |
 | ------- |
@@ -70,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ArupAmlan/CODEHUNT/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArupAmlan/CODEHUNT/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->
