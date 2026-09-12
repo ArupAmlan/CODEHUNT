@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArupAmlan/CODEHUNT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ArupAmlan/CODEHUNT/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArupAmlan/CODEHUNT/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ArupAmlan/CODEHUNT/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/ArupAmlan/CODEHUNT/tree/master/0283-move-zeroes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ArupAmlan/CODEHUNT/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ArupAmlan/CODEHUNT/tree/master/3483-unique-3-digit-even-numbers) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArupAmlan/CODEHUNT/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ArupAmlan/CODEHUNT/tree/master/0209-minimum-size-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArupAmlan/CODEHUNT/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ArupAmlan/CODEHUNT/tree/master/0209-minimum-size-subarray-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ArupAmlan/CODEHUNT/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArupAmlan/CODEHUNT/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
@@ -75,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ArupAmlan/CODEHUNT/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArupAmlan/CODEHUNT/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ArupAmlan/CODEHUNT/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
