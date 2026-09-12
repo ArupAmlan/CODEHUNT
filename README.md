@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ArupAmlan/CODEHUNT/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArupAmlan/CODEHUNT/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ArupAmlan/CODEHUNT/tree/master/0283-move-zeroes) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ArupAmlan/CODEHUNT/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ArupAmlan/CODEHUNT/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArupAmlan/CODEHUNT/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ArupAmlan/CODEHUNT/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Union-Find
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArupAmlan/CODEHUNT/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ArupAmlan/CODEHUNT/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -63,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ArupAmlan/CODEHUNT/tree/master/3483-unique-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ArupAmlan/CODEHUNT/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
