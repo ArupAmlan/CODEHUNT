@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArupAmlan/CODEHUNT/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArupAmlan/CODEHUNT/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/ArupAmlan/CODEHUNT/tree/master/0283-move-zeroes) |
+| [0835-image-overlap](https://github.com/ArupAmlan/CODEHUNT/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ArupAmlan/CODEHUNT/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ArupAmlan/CODEHUNT/tree/master/3483-unique-3-digit-even-numbers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArupAmlan/CODEHUNT/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ArupAmlan/CODEHUNT/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/ArupAmlan/CODEHUNT/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
