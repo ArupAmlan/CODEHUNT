@@ -33,4 +33,4 @@ class Solution:
             self.MOD - 2
         )
 
-        return numerator * inverse_denominator % self.MOD
+        return (numerator * inverse_denominator % self.MOD)
