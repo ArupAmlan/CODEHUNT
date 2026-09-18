@@ -10,4 +10,3 @@ class Solution:
             stack.append(i)
 
         return [ans[i] for i in a]
-            
