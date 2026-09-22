@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ArupAmlan/CODEHUNT/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/ArupAmlan/CODEHUNT/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ArupAmlan/CODEHUNT/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/ArupAmlan/CODEHUNT/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/ArupAmlan/CODEHUNT/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ArupAmlan/CODEHUNT/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ArupAmlan/CODEHUNT/tree/master/3483-unique-3-digit-even-numbers) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArupAmlan/CODEHUNT/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArupAmlan/CODEHUNT/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/ArupAmlan/CODEHUNT/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
