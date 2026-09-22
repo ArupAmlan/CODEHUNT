@@ -1,9 +1,9 @@
 class Solution:
     def maxProfit(self, p: List[int]) -> int:
-        buy = p[0]
+        buy = float('inf')
         sell = 0
 
-        for i in range(1, len(p)):
+        for i in range(len(p)):
             buy = min(buy,p[i])
             sell = max(sell,p[i]-buy)
 
