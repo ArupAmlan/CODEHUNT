@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ArupAmlan/CODEHUNT/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArupAmlan/CODEHUNT/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/ArupAmlan/CODEHUNT/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/ArupAmlan/CODEHUNT/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/ArupAmlan/CODEHUNT/tree/master/0496-next-greater-element-i) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ArupAmlan/CODEHUNT/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ArupAmlan/CODEHUNT/tree/master/3483-unique-3-digit-even-numbers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ArupAmlan/CODEHUNT/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ArupAmlan/CODEHUNT/tree/master/0015-3sum) |
+| [0141-linked-list-cycle](https://github.com/ArupAmlan/CODEHUNT/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArupAmlan/CODEHUNT/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ArupAmlan/CODEHUNT/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/ArupAmlan/CODEHUNT/tree/master/0876-middle-of-the-linked-list) |
@@ -125,10 +127,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ArupAmlan/CODEHUNT/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/ArupAmlan/CODEHUNT/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/ArupAmlan/CODEHUNT/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ArupAmlan/CODEHUNT/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/ArupAmlan/CODEHUNT/tree/master/3498-reverse-degree-of-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ArupAmlan/CODEHUNT/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
