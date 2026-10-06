@@ -1,12 +1,16 @@
 class Solution:
-    def nextGreaterElement(self, a: List[int], b: List[int]) -> List[int]:
+    def nextGreaterElement(self, nums1: list[int], nums2: list[int]) -> list[int]:
+        n = len(nums2)
+        ans = [-1] * n
         stack = []
-        ans = {}
 
-        for i in reversed(b):
-            while stack and stack[-1] <= i:
+        for i in range(n-1,-1,-1):
+            while stack and stack[-1] <= nums2[i]:
                 stack.pop()
-            ans[i] = stack[-1] if stack else -1
-            stack.append(i)
+            if stack:
+                ans[i] = stack[-1]
+            else:
+                ans[i] = -1
+            stack.append(nums2[i])
 
-        return [ans[i] for i in a]
+        return [ans[nums2.index(i)] for i in nums1]
