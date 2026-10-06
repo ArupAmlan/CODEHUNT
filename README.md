@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ArupAmlan/CODEHUNT/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ArupAmlan/CODEHUNT/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ArupAmlan/CODEHUNT/tree/master/0015-3sum) |
+| [0073-set-matrix-zeroes](https://github.com/ArupAmlan/CODEHUNT/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArupAmlan/CODEHUNT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ArupAmlan/CODEHUNT/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArupAmlan/CODEHUNT/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ArupAmlan/CODEHUNT/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArupAmlan/CODEHUNT/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ArupAmlan/CODEHUNT/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/ArupAmlan/CODEHUNT/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ArupAmlan/CODEHUNT/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ArupAmlan/CODEHUNT/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/ArupAmlan/CODEHUNT/tree/master/0496-next-greater-element-i) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ArupAmlan/CODEHUNT/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/ArupAmlan/CODEHUNT/tree/master/0835-image-overlap) |
 ## Combinatorics
 |  |
