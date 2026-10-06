@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ArupAmlan/CODEHUNT/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ArupAmlan/CODEHUNT/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ArupAmlan/CODEHUNT/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/ArupAmlan/CODEHUNT/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ArupAmlan/CODEHUNT/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArupAmlan/CODEHUNT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ArupAmlan/CODEHUNT/tree/master/0128-longest-consecutive-sequence) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ArupAmlan/CODEHUNT/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArupAmlan/CODEHUNT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ArupAmlan/CODEHUNT/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ArupAmlan/CODEHUNT/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ArupAmlan/CODEHUNT/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ArupAmlan/CODEHUNT/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
